@@ -23,7 +23,8 @@ export default function ProductCard ({image, name, price, sold}) {
                     <div style={{
                       display: 'flex',
                       color: '#00000099',
-                      gap: '50px'
+                      gap: '50px',
+                      fontSize: '12px'
                     }}>
                       <p>{price}</p>
                       <p>{sold}</p>

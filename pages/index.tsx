@@ -88,7 +88,7 @@ function Home() {
 
           <AnalyticsCard 
             title={'AVARAGE PURCHASE VALUE'}
-            width={'670px'}
+            width={'50%'}
             height={'424px'}
           >
             <PurchaseChart />
@@ -98,7 +98,7 @@ function Home() {
           
           <AnalyticsCard 
             title={'BEST SELLING SKU'}
-            width={'375px'}
+            width={'25%'}
             height={'424px'}
           >
             {
@@ -117,7 +117,7 @@ function Home() {
 
           <AnalyticsCard 
             title={'TOP COMPETITOR SKU'}
-            width={'375px'}
+            width={'25%'}
             height={'424px'}
           >
             {
