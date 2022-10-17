@@ -14,7 +14,7 @@ export default function ProductCard ({image, name, price, sold}) {
                     border: '0.5px solid #C5C5C59C',
                   }}
                 >
-                  <Image width={'100%'} height={'100%'} src={image} />
+                  <Image alt={'product-image'} width={'100%'} height={'100%'} src={image} />
                   <div style={{
                     padding: '10px',
                     lineHeight: '10px'

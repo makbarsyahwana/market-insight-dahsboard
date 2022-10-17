@@ -42,7 +42,7 @@ export default function GrowthCard ({ratio, amount, percentage, description, ico
                         <p style={{color: "#707070C4", fontSize: '10px'}}>{description}</p>
                     </div>
                     </div>
-                    <Image width={'49px'} height={'43px'} src={icon} />
+                    <Image alt={'purchase-icon'} width={'49px'} height={'43px'} src={icon} />
                 </div>
             </div>
         </>
