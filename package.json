@@ -11,7 +11,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "antd": "^4.23.5",
-    "chart.js": "^3.9.1",
+    "chart.js": "^3.0.0",
     "date-fns": "^2.29.3",
     "next": "12.3.1",
     "react": "18.2.0",
